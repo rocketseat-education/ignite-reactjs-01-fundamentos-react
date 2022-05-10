@@ -1,7 +1,7 @@
 import { Header } from './components/Header';
 import { Post } from './Post'
 
-import './styles.css';
+import './global.css';
 
 export function App() {
   return (
